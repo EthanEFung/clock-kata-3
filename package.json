@@ -1,0 +1,25 @@
+{
+  "name": "clock-kata-3",
+  "version": "1.0.0",
+  "description": "* Format:  On your laptop! Make sure to start from scratch! * Time:  30 minutes   * Description:  Make a simple digital clock that updates every second. * Frameworks and libraries:  Don’t use any :p",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanEFung/clock-kata-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanEFung/clock-kata-3/issues"
+  },
+  "homepage": "https://github.com/EthanEFung/clock-kata-3#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  }
+}
